@@ -1,5 +1,5 @@
 # tspExample
-a simple Travelling-Salesman-Problem genetic solution written in Java using a GUI interface
+a simple Travelling-Salesman-Problem genetic solution written in Java 
 
 # What is a TSP?
 Travelling-Salesman-Problem or TSP describes the problem of finding the shortest path between a set number of points. The goal is to visit each point once before returning to the starting point. The problem is to find the shortest route to do so.
